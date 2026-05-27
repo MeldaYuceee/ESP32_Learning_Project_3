@@ -42,7 +42,6 @@ Bu proje benim için MPU6050 ile yaptığım ilk temel denemelerden biri oldu.
 - ESP32
 - MPU6050 Accelerometer + Gyroscope
 - Jumper Cables
-- Wokwi Simulation
 
 ---
 
