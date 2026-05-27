@@ -21,7 +21,7 @@ Bu tarz sensörler günümüzde:
 
 aktif olarak kullanılmaktadır.
 
-Projeyi şu an gerçek donanım imkanlarım sınırlı olduğu için Wokwi simülasyon ortamında test ettim.  
+Projeyi şu an gerçek donanım imkanlarım sınırlı olduğu için simülasyon ortamında test ettim.  
 Buna rağmen sensör verilerini doğru şekilde okuyup çalıştırmayı başardım.
 
 İleride gerçek donanımlarla çalışarak:
@@ -93,7 +93,7 @@ Today, sensors like MPU6050 are commonly used in:
 - automotive systems
 - flight controllers
 
-Because my hardware resources are currently limited, I tested the project in the Wokwi simulation environment.  
+Because my hardware resources are currently limited, I tested the project in the simulation environment.  
 Even so, I successfully managed to read and process the sensor data correctly.
 
 In the future, I want to improve this project with:
